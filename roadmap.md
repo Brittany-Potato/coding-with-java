@@ -10,3 +10,11 @@ Java_Dictionary/
 ├── 05_Arrays_And_Lists.java       (Storing Data)
 ├── 06_OOP_Classes.java            (Objects - The Big One)
 └── README.md
+
+How to compile and run your code.
+
+Ensure you have the vs code java extension installed
+
+Compile: javac file_name.java
+
+Run: java file_name
