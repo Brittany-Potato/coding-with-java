@@ -37,7 +37,7 @@ public class syntax_and_variables {
 
         //* Declaration VS initialization
 
-        int = x; // Declaration (Creating the box)
+        int x; // Declaration (Creating the box)
         x = 100; // Initilization (Putting data in the box)
         int y = 200; // Doing both at once
 
@@ -47,4 +47,3 @@ public class syntax_and_variables {
         System.out.println("My grade is: " + grade);
         System.out.println("The total is: " + (x + y)); 
     }}
-}
